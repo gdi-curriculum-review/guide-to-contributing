@@ -9,4 +9,4 @@ Here's a description of changes:
 * ...
 
 
-cc @reviewers
+cc @gdi-curriculum-review/reviewers
